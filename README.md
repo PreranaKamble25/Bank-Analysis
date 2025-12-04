@@ -1,5 +1,7 @@
 # Banking Analysis Dashboard – Power BI 
 
+<img width="1331" height="751" alt="image" src="https://github.com/user-attachments/assets/3d6ba468-d012-47eb-920c-510d57eeae8d" />
+
 ### Project Overview
 
 This project aims to develop a Banking Risk Analytics Dashboard using Power BI, helping financial institutions analyze, visualize, and minimize lending risks through data-driven insights.
