@@ -1,5 +1,4 @@
 # Banking Analysis Dashboard – Power BI 
-<img width="1331" height="751" alt="image" src="https://github.com/user-attachments/assets/aad76b56-1f5b-4ac3-bac6-ba6cc16bf504" />
 
 ### Project Overview
 
